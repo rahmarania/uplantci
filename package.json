@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "highcharts": "^10.3.1"
+  }
+}
